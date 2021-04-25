@@ -21,4 +21,3 @@ fields:
   hidden: true
 pages:
 - src/posts/this-is-a-post.md
-- src/posts/this-is-a-unique-title.md
